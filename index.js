@@ -8,7 +8,7 @@ function tile(url, left, bottom, width, height){
     }
 }
 
-// Was having trouble trying to add the code for lines 1 to 8 and 28 to 33. Had to delete my original code and add the background code with the original on notepad. Finally was able to get it to show. Got the rest without the solution, but by collaborating with other students.
+// Was having trouble trying to add the code for lines 1 to 8 and 28 to 33. Had to delete my original code and add the background code with the original on notepad. Finally was able to get it to show. Had to take a peek at the solution code for the Bonus.
 
 function newImage(url, left, bottom){
     let pic = document.createElement('img')
